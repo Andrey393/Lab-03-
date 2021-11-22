@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab 03 Переключатели и диалоговые окна Грицакович АндрейГруппа 393</string>
+    <string name="Applee">Яблоко</string>
+    <string name="Limon">Лимон</string>
+    <string name="Mandarin">Мандарин</string>
+    <string name="Arbyz">Арбуз</string>
+    <string name="Применить">Применить</string>
+    <string name="Подсчитать">Подсчитать</string>
+
+</resources>
